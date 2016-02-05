@@ -1,0 +1,83 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="EndsoftheEarthbeta.com" resolutions="1x" timestamp="1454665024775">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="277743360" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="tablet>index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="tablet>index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pageonescroll768x480.png" crc="286573273" seo="true" ref="tablet>index"/>
+    <file name="photo-u1467.png" crc="4033931185" ref="tablet>index"/>
+    <file name="u1469-4.png" crc="455010173" ref="tablet>index"/>
+    <file name="u1470-6.png" crc="402568104" ref="tablet>index"/>
+    <file name="u1471-4.png" crc="44926032" ref="tablet>index"/>
+    <file name="u1419-4.png" crc="282114297" ref="tablet>index"/>
+    <file name="u1420-8.png" crc="134153310" ref="tablet>index"/>
+    <file name="u1498-4.png" crc="4122401986" ref="tablet>index"/>
+    <file name="u1522-4.png" crc="4013718306" ref="tablet>index"/>
+    <file name="u1521-4.png" crc="4006913902" ref="tablet>index"/>
+    <file name="u1518-4.png" crc="3825056088" ref="tablet>index"/>
+    <file name="u1519-4.png" crc="4113691324" ref="tablet>index"/>
+    <file name="addiction alpha.png" crc="36529314" seo="true" ref="tablet>index:index"/>
+    <file name="wap.jpg" crc="393430025" seo="true" ref="tablet>index:index"/>
+    <file name="u1472-6.png" crc="427894193" ref="tablet>index"/>
+    <file name="u1473-10.png" crc="138415483" ref="tablet>index"/>
+    <file name="dog3768x212.jpg" crc="4148433924" seo="true" ref="tablet>index"/>
+    <file name="bestley_tuna03-crop-u1436.jpg" crc="4173338283" ref="tablet>index"/>
+    <file name="seafoodwatchwhite-u1438.png" crc="285403927" ref="tablet>index"/>
+    <file name="monteraybaywhitetransp-u1440.png" crc="3783732855" ref="tablet>index"/>
+    <file name="bgtwotwo-crop-u1434.jpg" crc="244129640" ref="tablet>index"/>
+    <file name="u1476-9.png" crc="3868995924" ref="tablet>index"/>
+    <file name="centre-strip-1-crop-u1456.jpg" crc="3913599959" ref="tablet>index"/>
+    <file name="scat051.jpg" crc="4183461588" seo="true" ref="tablet>index:index"/>
+    <file name="farmers2-u1452.png" crc="288783128" ref="tablet>index"/>
+    <file name="bowl2-u1459.png" crc="3783594996" ref="tablet>index"/>
+    <file name="u1477-10.png" crc="4048887852" ref="tablet>index"/>
+    <file name="u1478-12.png" crc="217735981" ref="tablet>index"/>
+    <file name="u1479-4.png" crc="319912687" ref="tablet>index"/>
+    <file name="u1481-4.png" crc="367672258" ref="tablet>index"/>
+    <file name="pageonescroll.png" crc="4227513295" seo="true" ref="index"/>
+    <file name="photo-u783.png" crc="295157542" ref="index"/>
+    <file name="u789-4.png" crc="455010173" ref="index"/>
+    <file name="u792-4.png" crc="215663318" ref="index"/>
+    <file name="u794-4.png" crc="44926032" ref="index"/>
+    <file name="u797-6.png" crc="504608363" ref="index"/>
+    <file name="u798-8.png" crc="3943981465" ref="index"/>
+    <file name="dog31222x337.jpg" crc="96599303" seo="true" ref="index"/>
+    <file name="bgtwotwo.jpg" crc="231639282" seo="true" ref="index"/>
+    <file name="bestley_tuna03-crop-u821.jpg" crc="401721896" ref="index"/>
+    <file name="u820-9.png" crc="498313896" ref="index"/>
+    <file name="seafoodwatchwhite-u827.png" crc="29628671" ref="index"/>
+    <file name="monteraybaywhitetransp-u839.png" crc="107431200" ref="index"/>
+    <file name="centre-strip-1.jpg" crc="3858801203" seo="true" ref="index"/>
+    <file name="u871-4.png" crc="108188867" ref="index"/>
+    <file name="u898-6.png" crc="3788425105" ref="index"/>
+    <file name="farmers2-u877.png" crc="288783128" ref="index"/>
+    <file name="bowl2-u899.png" crc="3783594996" ref="index"/>
+    <file name="u931-4.png" crc="449485761" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4193834687" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4218238191" seo="true" mt="1454653221575" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="486849209" seo="true" mt="1454647286187" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="117720666" seo="true" mt="1454649212915" redirect="true"/>
+</manifest>
